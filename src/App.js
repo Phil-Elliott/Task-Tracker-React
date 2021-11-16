@@ -8,7 +8,7 @@ function App() {
   const [tasks, setTasks] = useState([
     {
       id: 1, 
-      text: 'Wash your butt', 
+      text: 'Study Node', 
       day: 'Feb 8th at 9:00pm',
       reminder: false,
     }
